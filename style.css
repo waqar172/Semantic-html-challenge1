@@ -1,0 +1,28 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: "Benton Sans", "Helvetica Neue", helvetica, arial, sans-serif;
+  margin: 2em;
+  background-image:url(C:\Users\Waqar\Downloads\Compressed\semantic-html-challenge-master\assets\noise.png);
+}
+h1 {
+  font-style: italic;
+  color: #373fff;
+}
+table {
+	border: 1px solid #800080;
+	text-align:center;
+	border-collapse:collapse;
+	width:100%;
+	padding:15%;
+}
+th{
+ background-color:rgba(0,0,0,0.1);
+}
+.one, .three, .five, .seven{
+background-color:#ff33cc;
+}
+.two, .four, .six, .eight{
+background-color:#e495e4;
+}
+
